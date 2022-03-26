@@ -20,3 +20,5 @@ When the slider moves, it transmits the value to the Celsius temperature and the
   </div>
   <div class="column">
     <img src = "Screenshot/MinusTemp.png" width = "207" height = "448">
+  </div>
+</div>
