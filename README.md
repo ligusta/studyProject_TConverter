@@ -14,11 +14,7 @@ Three Label elements are displayed on the main screen, one of them is a field wi
 # 3. Interaction with the slider
 When the slider moves, it transmits the value to the Celsius temperature and then the Fahrenheit temperature value is calculated using the formula.
 
-<div class="row">
-  <div class="column">
-    <img src = "Screenshot/PlusTemp.png" width = "207" height = "448">
-  </div>
-  <div class="column">
-    <img src = "Screenshot/MinusTemp.png" width = "207" height = "448">
-  </div>
-</div>
+<p float="left">
+  <img src = "Screenshot/PlusTemp.png" width = "207" height = "448">
+  <img src = "Screenshot/MinusTemp.png" width = "207" height = "448">
+</p>
